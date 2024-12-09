@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Project.BLL.Models.DTO_s.Job
+{
+    public class ListJobDTO
+    {
+        public int JobID { get; set; }
+        public string JobName { get; set; }
+    }
+}

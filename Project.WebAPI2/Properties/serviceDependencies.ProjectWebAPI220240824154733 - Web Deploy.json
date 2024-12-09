@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ProjectWebAPI2apibadehr/apis/ProjectWebAPI2",
+      "type": "apis.azure"
+    }
+  }
+}
